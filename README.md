@@ -2,7 +2,7 @@
 
 # ZipInstaller
 
-**ZipInstaller** es una herramienta escrita en Python que permite ejecutar instalaciones automatizadas a partir de un archivo `.zip` que contiene un archivo de manifiesto (`MANIFEST.MAN`). Está diseñada para simplificar despliegues en entornos controlados, permitiendo copiar archivos, ejecutar comandos previos o posteriores, y registrar el proceso en un log.
+**ZipInstaller** es una herramienta escrita en Python que permite ejecutar instalaciones automatizadas a partir de un archivo `.zip` que contiene un archivo de manifiesto (`MANIFEST.MAN`). Está diseñada para simplificar despliegues de software y modificaciones de programas de una forma similar a como lo hace TWRP, permitiendo copiar archivos, ejecutar comandos previos o posteriores, y registrar el proceso en un log.
 
 ---
 
