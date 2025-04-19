@@ -1,8 +1,5 @@
-Perfecto, aquí tienes el contenido completo del `README.md` para **ZipInstaller**, listo para guardarse como un único archivo Markdown:
 
----
 
-```markdown
 # ZipInstaller
 
 **ZipInstaller** es una herramienta escrita en Python que permite ejecutar instalaciones automatizadas a partir de un archivo `.zip` que contiene un archivo de manifiesto (`MANIFEST.MAN`). Está diseñada para simplificar despliegues en entornos controlados, permitiendo copiar archivos, ejecutar comandos previos o posteriores, y registrar el proceso en un log.
@@ -129,4 +126,4 @@ GNU GPLv3
 
 ## ✍️ Autor
 Danucosukosuko.
-```
+
